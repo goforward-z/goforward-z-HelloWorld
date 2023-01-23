@@ -12,7 +12,8 @@ public class HelloWorld {
      * 
      * @return "Hello, world!"
      */
-    public String sayHello(){
-        return "change me";
+
+    public String sayHello() {
+        return "Hello, world!";
     }
 }
